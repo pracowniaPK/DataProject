@@ -1,2 +1,5 @@
-# data_project
-Data analysis school project
+# DataProject
+
+Data analysis school project.
+
+Open: `project.ipynb`
